@@ -42,7 +42,7 @@ int main(){
    printf("Carta 2 \n");
 
    printf("Estado: \n");
-   scanf("%s", estado);
+   scanf("%s", &estado);
 
    printf("Cidade: \n");
    scanf("%s", &cidade);
